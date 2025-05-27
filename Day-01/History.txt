@@ -1,0 +1,66 @@
+In 1978 - C programming by Dennis Ritchie
+
+Which follows Procedural Language
+
+Drawbacks: 1) Not good for handling memory
+2) No Exception Handling
+3) It doesn't follow OOPS paradigm
+
+In 1979 - C++ Programming by Bjarne Stroustrip
+
+Drawbacks: 1) Pointers
+2) Operator overloading virtual function 
+3) No platform independent
+
+In 1991 - Python Programming 
+
+In 1995 - JAVA Programming by James Gosling
+
+History of JAVA starts from the Green Team
+Java has named by JavaBeams in Indonesia
+
+Java Features:
+1) Simple (Already learned C & C++)
+2) Robust(meaning powerful) --> Error Prone Code
+3) Platform Independent
+	--> JDK is platform independent
+	--> JVM is platform dependent
+4) It follows OPPS paradigm but no 100%. Simula is considered as the First OOPS Language. 
+
+Flow:
+filename.java ---> compiler ---> filename.class
+
+JDK ---> JAVA Development Kit
+JVM ---> JAVA Virtual Machine
+JIT ---> Just In Time Interpreter (double check the bytecode)
+OOPS ---> Object Oriented Programming System
+POP ---> Procedural Oriented Programming
+
+J2SE ---> JAVA 2 Standard Edition
+J2EE ---> JAVA 2 Enterprise Edition
+J2ME ---> JAVA 2 Micro Edition
+
+
+
+OOPS For Every Programming Language:
+4 Pillars:
+	1) Encapsulation
+	2) Polymorphism
+	3) Inheritance
+	4) Abstraction
+
+5) Good in Memory Management
+	--> Garbage Collector
+6) It is Multi threaded Language
+7) It Handles Exception Handling
+8) Distributed Language
+	--> For Developing Web Applications, Embedded System, TCP/TP Protocals
+	
+9) It is Portable
+
+GIT & GITHUB:
+1) To Initialize --> git inti (local storage)
+
+
+
+

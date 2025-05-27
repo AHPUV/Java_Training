@@ -1,0 +1,24 @@
+Operator Types:
+1) Arithmetic --> +,-,*,/,%
+2) Relational --> <,>,<=,>=,!=
+3) Assignment --> =,+=,-=,*=,/=
+4) Logical --> &&, ||, !
+5) Bitwise --> &, |, ^, ~, <<,>>,>>>\
+	- << --> N*2pow(n)
+	- >> --> N/2pow(n)
+	- >>> --> N/2pow(n) (positive)
+6) Unary --> ++,--
+7) Ternary --> (Condition)? T:F
+8) Comma
+
+Values:(base)
+Decimal = 10
+Binary = 2
+Octal = 8
+Hexadecimal = 16
+
+AND: TTT, OR: FFF
+
+Questions:
+1) Write a program to find the program to find the given number is odd or even with and without modules?
+
