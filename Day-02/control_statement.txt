@@ -1,0 +1,10 @@
+#Control Flow Statements:
+1) If
+2) If-else
+3) If-elself
+4) Nested If
+5) Switch case
+
+#Note: int + int = int
+int + float = float
+string + anyDataType = String
